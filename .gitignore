@@ -31,6 +31,7 @@
 *.sublime-workspace
 nbproject
 Thumbs.db
+koneksi.php
 
 # Komodo
 .komodotools
